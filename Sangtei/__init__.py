@@ -6,7 +6,7 @@ import json
 import asyncio
 import time
 import spamwatch
-import telegram.ext as tg
+import telegram.ext as Updater, CommandHandler
 
 from inspect import getfullargspec
 from aiohttp import ClientSession
@@ -246,7 +246,7 @@ else:
 
 from Sangtei.modules.sql import SESSION
 
-defaults = tg.Defaults(run_async=True)
+defaults = tg.Handler(run_async=True)
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
 telethn = TelegramClient(MemorySession(), API_ID, API_HASH)
 dispatcher = updater.dispatcher
