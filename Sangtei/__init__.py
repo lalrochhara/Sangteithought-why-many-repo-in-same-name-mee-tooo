@@ -246,7 +246,7 @@ else:
 
 from Sangtei.modules.sql import SESSION
 
-defaults = tg.Handler(run_async=True)
+defaults = tg.Defaults(run_async=True)
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
 telethn = TelegramClient(MemorySession(), API_ID, API_HASH)
 dispatcher = updater.dispatcher
