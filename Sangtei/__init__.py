@@ -6,7 +6,7 @@ import json
 import asyncio
 import time
 import spamwatch
-import telegram.ext as Updater, CommandHandler
+import telegram.ext as tg
 
 from inspect import getfullargspec
 from aiohttp import ClientSession
