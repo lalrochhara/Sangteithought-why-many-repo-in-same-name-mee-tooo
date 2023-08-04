@@ -4,10 +4,10 @@
 
 <h4><p align="center"> Sangtei </p></h4>
 
-<p align="center">Prime Mega is a modular bot running on python3.9 with autobots theme and have a lot features.</p>
+<p align="center">Sangtei Mega is a modular bot running on python3.9 with autobots theme and have a lot features.</p>
 
 <p align="center">
-<a href="https://t.me/SangteiBot"> <img src="https://img.shields.io/badge/Sangtei-blue?&logo=telegram" alt="Prime on Telegram" /> </a><br>
+<a href="https://t.me/SangteiBot"> <img src="https://img.shields.io/badge/Sangtei-blue?&logo=telegram" alt="Sangtei on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.9.0-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
@@ -38,7 +38,7 @@ root@Sangtei~ $ screen -S Sangtei
 root@Sangtei~ $ git clone https://github.com/lalrochhara/Sangtei
 root@Sangtei~ $ cd Sangtei
 root@Sangtei~ $ pip3 install -U -r requirements.txt
-root@Sangtei~ $ cp prime.env .env
+root@Sangtei~ $ cp Sangtei.env .env
 root@Sangtei~ $ nano .env
 root@Sangtei~ $ bash start
 ```
@@ -47,7 +47,7 @@ root@Sangtei~ $ bash start
 
 ### Contributors
 - [ Nicky Lalrochhara ](https://github.com/lalrochhara) : Sangtei
-- [『TØNIC』 乂 ₭ILLΣR](https://github.com/Tonic990) : Prime Devs
+- [『TØNIC』 乂 ₭ILLΣR](https://github.com/Tonic990) : Sangtei Devs
 - [Arya](https://github.com/aryazakaria01) : Natsunagi Devs
 - [Xbarox](https://github.com/Xbaroxx)
 

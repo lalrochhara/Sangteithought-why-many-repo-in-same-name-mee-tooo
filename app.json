@@ -35,12 +35,12 @@
          "value": ""
       },
       "API_ID": {
-         "description": "Get API_ID from my.telegram.org or @PrimeApiBot, used for telethon based modules.",
+         "description": "Get API_ID from my.telegram.org or @SangteiApiBot, used for telethon based modules.",
          "required": true,
          "value": ""
       },
       "API_HASH": {
-         "description": "Get API_HASH from my.telegram.org or @PrimeApiBot, used for telethon based modules.",
+         "description": "Get API_HASH from my.telegram.org or @SangteiApiBot, used for telethon based modules.",
          "required": true,
          "value": ""
       },    
