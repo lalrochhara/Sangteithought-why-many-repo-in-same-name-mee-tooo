@@ -31,7 +31,7 @@ speedtest-cli
 regex
 bleach
 markdown2
-telethon==1.29.2
+telethon==1.32.1
 telegraph
 heroku3
 spamwatch
